@@ -12,3 +12,8 @@ Currently, two official plugins are available:
 - cd todo-list-app
 - npm install
 - npm run dev
+
+## uses Redux 
+
+[refer to todosSlice](/src/TodosSlice.js) to check the reducers and to
+[refer to main](/src/main.jsx) to see how state is provided in the store
